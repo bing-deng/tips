@@ -8,7 +8,7 @@
 #### [URI 获取操作URL的库](https://github.com/medialize/URI.js)
 * [URI](https://medialize.github.io/URI.js/)
 * [build URI JS](http://medialize.github.io/URI.js/build.html)
-
+* [get url param](https://smoothprogramming.com/tutorials/get-set-query-string-values-from-url-using-uri-js/)
 
 
 ### wordpress
@@ -18,7 +18,7 @@
 
 ### JS
 
-* sleep
+* sleep 
 ```
 
 // https://zeit.co/blog/async-and-await
