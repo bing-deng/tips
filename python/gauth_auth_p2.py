@@ -1,4 +1,5 @@
 # coding:utf8
+# 谷歌验证码 python2 版本
 import hmac, base64, struct, hashlib, time
 def calGoogleCode(secretKey):
     input = int(time.time())//30
